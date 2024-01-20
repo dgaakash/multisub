@@ -4,18 +4,6 @@
 
 <b>A Telegram Special File Sharing Bot Who Made A Link Of File And You Can Access File Through Link.</b>
 
-##
-
-**Credit - [@CodeXbotz](https://t.me/CodeXBotz)** [@Anime_X_Hunters](https://t.me/Anime_X_Hunters)**
-
-
-
-### Features
-- Multi Force Sub Modified Of CodeXBotz Created By - [@Its_Tagtaglia_Childe](https://t.me/Its_Tartaglia_Childe)**
-- Fully customisable.
-- Customisable welcome & Forcesub messages.
-- More than one Posts in One Link.
-- Can be deployed on heroku directly.
 
 ### Setup
 
